@@ -1,0 +1,21 @@
+# Theme metadata
+name = "Shelter Cove"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#448ef6"
+
+# Menu
+menu_primary = "#448ef6"
+menu_text = "#ededed"
+menu_text_active = "#f3a953"
+menu_title = "#ededed"
+
+# Home sections
+background = "#fefbf9"
+home_section_odd = "#fefbf9"
+home_section_even = "#ededed"
+
+font = "shelter_cove"
