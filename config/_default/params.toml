@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "shelter_cove"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -22,7 +22,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -86,7 +86,7 @@ phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address = {street = "465 Soda Hall", city = "Berkeley", region = "CA", postcode = "94270", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -153,7 +153,7 @@ docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 sharing = true
 
 # Link authors to their profile page? (true/false)
-link_authors = true
+link_authors = false
 
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
@@ -181,7 +181,7 @@ plugins_js  = []
 [publications]
   # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "January 2006"
+  date_format = "2006"
 
   # Citation style ("apa" or "mla")
   citation_style = "apa"
