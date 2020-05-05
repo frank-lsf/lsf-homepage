@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-Visit my [prehistoric homepage](/prehistory).
+Visit my [prehistoric homepage](https://franklsf.org/prehistory).
