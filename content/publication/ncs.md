@@ -18,7 +18,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In Proceedings of the 2nd ACM SIGPLAN International Workshop on Machine Learning and Programming Languages
-publication_short: MAPL
+publication_short: MAPL 2018
 
 abstract: Searching over large code corpora can be a powerful productivity tool for both beginner and experienced developers because it helps them quickly find examples of code related to their intent. Code search becomes even more attractive if developers could express their intent in natural language, similar to the interaction that Stack Overflow supports. In this paper, we investigate the use of natural language processing and information retrieval techniques to carry out natural language search directly over source code, i.e. without having a curated Q&A forum such as Stack Overflow at hand. Our experiments using a benchmark suite derived from Stack Overflow and GitHub repositories show promising results. We find that while a basic word–embedding based search procedure works acceptably, better results can be obtained by adding a layer of supervision, as well as by a customized ranking strategy.
 

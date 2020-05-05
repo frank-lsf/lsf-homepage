@@ -3,7 +3,7 @@
 
 title: "Flying Milestones"
 subtitle: ""
-summary: ""
+summary: "My journeys as a private pilot."
 authors: []
 tags: []
 categories: []
