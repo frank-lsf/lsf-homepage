@@ -1,11 +1,11 @@
 ---
 title: "Aroma: Code Recommendation via Structural Code Search"
 authors:
-- "**Sifei Luan**"
-- Di Yang
-- Celeste Barnaby
-- Koushik Sen
-- Satish Chandra
+  - "**Sifei Luan**"
+  - Di Yang
+  - Celeste Barnaby
+  - Koushik Sen
+  - Satish Chandra
 date: "2019-10-01"
 doi: "10.1145/3211346.3211353"
 
@@ -25,17 +25,17 @@ abstract: Programmers often write code that has similarity to existing code writ
 summary: |
   A code recommendation tool for big code corpora to improve developer productivity.
 
-  *2019 ACM SIGPLAN Distinguished Paper Award.*
+  🏆*2019 ACM SIGPLAN Distinguished Paper Award*
 
 tags:
-- Big Code
+  - Big Code
 featured: true
 
 links:
-- name: Blog
-  url: https://ai.facebook.com/blog/aroma-ml-for-code-recommendation/
-- name: Talk
-  url: https://www.youtube.com/watch?v=27jNHU8pwsU&list=PLyrlk8Xaylp6enzqOraP0sSd5HzVq3DZ5&index=46
+  - name: Blog
+    url: https://ai.facebook.com/blog/aroma-ml-for-code-recommendation/
+  - name: Talk
+    url: https://www.youtube.com/watch?v=27jNHU8pwsU&list=PLyrlk8Xaylp6enzqOraP0sSd5HzVq3DZ5&index=46
 url_pdf: /files/aroma-oopsla-2019.pdf
 # url_code: '#'
 # url_dataset: '#'
@@ -46,7 +46,7 @@ url_pdf: /files/aroma-oopsla-2019.pdf
 # url_video: '#'
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
 #   focal_point: ""
