@@ -37,9 +37,11 @@ education:
 experience:
   courses:
     - course: Graduate Student Researcher
-      institution: UC Berkeley, 2019 - now
+      institution: UC Berkeley
+      year: 2019 - now
     - course: Software Engineer
-      institution: Facebook, 2017 - 2019
+      institution: Facebook
+      year: 2017 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
