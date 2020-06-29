@@ -3,7 +3,7 @@ title: "Retrieval on Source Code: A Neural Code Search"
 authors:
 - Saksham Sachdev
 - Hongyu Li
-- "**Sifei Luan**"
+- lsf
 - Seohyun Kim
 - Koushik Sen
 - Satish Chandra

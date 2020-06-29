@@ -1,7 +1,7 @@
 ---
 title: "Aroma: Code Recommendation via Structural Code Search"
 authors:
-  - "**Sifei Luan**"
+  - lsf
   - Di Yang
   - Celeste Barnaby
   - Koushik Sen

@@ -1,4 +1,6 @@
 ---
+title: Frank Sifei Luan
+
 # Display name
 name: Frank Sifei Luan
 

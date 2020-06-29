@@ -1,7 +1,7 @@
 ---
 title: "Curry On 2019: Using ML for Code Discovery at Facebook"
 authors:
-- "**Frank Sifei Luan**"
+- lsf
 - Celeste Barnaby
 date: "2019-07-15"
 all_day: true
