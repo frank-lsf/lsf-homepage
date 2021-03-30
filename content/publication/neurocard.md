@@ -13,7 +13,7 @@ authors:
 #   - Equal contribution
 #   - Equal contribution
 date: "2020-06-15"
-# doi: ""
+doi: 10.14778/3421424.3421432
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,8 +22,8 @@ date: "2020-06-15"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: arXiV
-publication_short: arXiV
+publication: Proceedings of the VLDB Endowment
+publication_short: VLDB 2020
 
 abstract: Query optimizers rely on accurate cardinality estimates to produce good execution plans. Despite decades of research, existing cardinality estimators are inaccurate for complex queries, due to making lossy modeling assumptions and not capturing inter-table correlations. In this work, we show that it is possible to learn the correlations across all tables in a database without any independence assumptions. We present NeuroCard, a join cardinality estimator that builds a single neural density estimator over an entire database. Leveraging join sampling and modern deep autoregressive models, NeuroCard makes no inter-table or inter-column independence assumptions in its probabilistic modeling. NeuroCard achieves orders of magnitude higher accuracy than the best prior methods (a new state-of-the-art result of 8.5× maximum error on JOB-light), scales to dozens of tables, while being compact in space (several MBs) and efficient to construct or update (seconds to minutes).
 

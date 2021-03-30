@@ -1,14 +1,14 @@
 ---
 title: "Retrieval on Source Code: A Neural Code Search"
 authors:
-- Saksham Sachdev
-- Hongyu Li
-- lsf
-- Seohyun Kim
-- Koushik Sen
-- Satish Chandra
+  - Saksham Sachdev
+  - Hongyu Li
+  - lsf
+  - Seohyun Kim
+  - Koushik Sen
+  - Satish Chandra
 date: "2018-06-01"
-doi: "10.1145/3211346.3211353"
+doi: 10.1145/3211346.3211353
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,7 +17,7 @@ doi: "10.1145/3211346.3211353"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In Proceedings of the 2nd ACM SIGPLAN International Workshop on Machine Learning and Programming Languages
+publication: Proceedings of the 2nd ACM SIGPLAN International Workshop on Machine Learning and Programming Languages
 publication_short: MAPL 2018
 
 abstract: Searching over large code corpora can be a powerful productivity tool for both beginner and experienced developers because it helps them quickly find examples of code related to their intent. Code search becomes even more attractive if developers could express their intent in natural language, similar to the interaction that Stack Overflow supports. In this paper, we investigate the use of natural language processing and information retrieval techniques to carry out natural language search directly over source code, i.e. without having a curated Q&A forum such as Stack Overflow at hand. Our experiments using a benchmark suite derived from Stack Overflow and GitHub repositories show promising results. We find that while a basic word–embedding based search procedure works acceptably, better results can be obtained by adding a layer of supervision, as well as by a customized ranking strategy.
@@ -26,14 +26,14 @@ abstract: Searching over large code corpora can be a powerful productivity tool 
 summary: A natural language code search tool for big codebases.
 
 tags:
-- Big Code
+  - Big Code
 featured: true
 
 links:
-- name: Blog
-  url: https://ai.facebook.com/blog/neural-code-search-ml-based-code-search-using-natural-language-queries/
-- name: Dataset
-  url: https://research.fb.com/publications/neural-code-search-evaluation-dataset/
+  - name: Blog
+    url: https://ai.facebook.com/blog/neural-code-search-ml-based-code-search-using-natural-language-queries/
+  - name: Dataset
+    url: https://research.fb.com/publications/neural-code-search-evaluation-dataset/
 url_pdf: /files/ncs-mapl-2018.pdf
 # url_code: '#'
 # url_dataset: '#'
@@ -44,7 +44,7 @@ url_pdf: /files/ncs-mapl-2018.pdf
 # url_video: '#'
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
 #   focal_point: ""

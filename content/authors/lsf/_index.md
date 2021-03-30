@@ -73,6 +73,6 @@ user_groups:
   - Visitors
 ---
 
-I am a first-year PhD student in computer science at the [RISELab](https://rise.cs.berkeley.edu/) at UC Berkeley. My current research interest is in machine learning and data systems.
+I am a PhD student in computer science at the [RISELab](https://rise.cs.berkeley.edu/) at UC Berkeley. My current research interest is in machine learning and data systems.
 
-I started at Berkeley in 2019. Before that, I worked in the Big Code team at Facebook for two years where I applied machine learning techniques to build assistants that help developers write code. I received my bachelor's degree in computer science and statistics from UChicago in 2017.
+I started at Berkeley in 2019. Before that, I worked in the Big Code team at Facebook where I applied machine learning techniques to build assistants that help developers write code. I received my bachelor's degree in computer science and statistics from UChicago in 2017.
