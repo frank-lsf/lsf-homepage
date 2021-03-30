@@ -1,0 +1,26 @@
+.reveal {
+  font-size: 24px;
+  color: #eee;
+}
+
+.reveal span {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.reveal h1 h2 h3 h4 h5 h6 span {
+  color: #eee;
+  background-color: #e7ad52;
+}
+
+.reveal a {
+  color: #f3d7ac;
+}
+
+.reveal ul {
+  background-color: rgba(0, 0, 0, 0.5);
+  list-style-type: square;
+}
+
+.reveal li {
+  margin-bottom: 1em;
+}

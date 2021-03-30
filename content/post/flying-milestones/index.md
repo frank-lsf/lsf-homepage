@@ -5,10 +5,10 @@ title: "Flying Milestones"
 subtitle: ""
 summary: "My journeys as a private pilot."
 authors: []
-tags: []
-categories: []
-date: 2020-02-12T23:41:13-08:00
-lastmod: 2020-02-12T23:41:13-08:00
+tags: [Flying]
+categories: [Flying]
+date: 2020-03-29T00:00:00-08:00
+lastmod: 2020-03-29T00:00:00-08:00
 featured: false
 draft: false
 
@@ -38,7 +38,10 @@ projects: []
 - 3/23/2019: Checkout in Chicago. Cessna 172N. Lansing, Illinois. First Chicago Skyline Tour Flight.
 - 4/10/2019: First San Francisco Class B Airspace Transition. First Bay Tour. (Did several dozens more in the next few months.)
 - 5/19/2019: First Flight in Marginal Weather. Dodged some clouds and some light-moderate precipitation cells.
-- 6/9/2019: Checkout in a Diamond Star DA-40. Also the most beautiful sunset in a Bay Tours.
+- 6/9/2019: Checkout in a Diamond Star DA-40. The most beautiful sunset in bay tours.
 - 7/28/2019: First Trip to Southern California. DA-40. 151nm to San Luis Obispo, California (KSBP). Went into reserve fuel on the return trip.
 - 9/6/2019: First Overnight Cross Country Trip. DA-40. 179nm to Shelter Cove, California (0Q5). Approach to Rwy 12 with very low overcast on top of the runway (but clear on the approach path).
 - 10/13/2019: First Night Cross Country Trip. DA-40. 133nm to Little River, California (KLLR). Full moon flight.
+- 11/7/2019: Mountain checkout in a Cessna 182. KTVL, KTRK, KBLU.
+- 8/2/2020: First Crossing of the Sierra Nevada. Cessna 182. Crossed Tioga Pass at 11500ft (1500ft AGL) to Lee Vining, California (O24).
+- 3/13/2021: First Cross-Country Ski Trip. Cessna 182. 156nm to Mammoth Lakes, California (KMMH). First runway excursion incident due to brake overheating.
