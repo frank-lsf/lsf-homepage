@@ -1,19 +1,15 @@
 ---
-title: "NeuroCard: One Cardinality Estimator for All Tables"
+title: "Ownership: A Distributed Futures System for Fine-Grained Tasks"
 authors:
-  - Zongheng Yang
-  - Amog Kamsetty
-  - lsf
+  - Stephanie Wang
   - Eric Liang
-  - Yan Duan
-  - Xi Chen
+  - Edward Oakes
+  - Ben Hindman
+  - lsf
+  - Audrey Cheng
   - Ion Stoica
-# author_notes:
-#   -
-#   - Equal contribution
-#   - Equal contribution
-date: "2020-06-15"
-doi: 10.14778/3421424.3421432
+date: "2021-04-12"
+# doi:
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,18 +18,17 @@ doi: 10.14778/3421424.3421432
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Proceedings of the VLDB Endowment (VLDB 2020)
-publication_short: VLDB 2020
+publication: 18th USENIX Symposium on Networked Systems Design and Implementation (NSDI 2021)
+publication_short: NSDI 2021
 
-abstract: Query optimizers rely on accurate cardinality estimates to produce good execution plans. Despite decades of research, existing cardinality estimators are inaccurate for complex queries, due to making lossy modeling assumptions and not capturing inter-table correlations. In this work, we show that it is possible to learn the correlations across all tables in a database without any independence assumptions. We present NeuroCard, a join cardinality estimator that builds a single neural density estimator over an entire database. Leveraging join sampling and modern deep autoregressive models, NeuroCard makes no inter-table or inter-column independence assumptions in its probabilistic modeling. NeuroCard achieves orders of magnitude higher accuracy than the best prior methods (a new state-of-the-art result of 8.5× maximum error on JOB-light), scales to dozens of tables, while being compact in space (several MBs) and efficient to construct or update (seconds to minutes).
+abstract: "The distributed futures interface is an increasingly popular choice for building distributed applications that manipulate large amounts of data. Distributed futures are an extension of RPC that combines futures and distributed memory: a distributed future is a reference whose eventual value may be stored on a remote node. An application can then express distributed computation without having to specify when or where execution should occur and data should be moved. Recent distributed futures applications require the ability to execute fine-grained computations, i.e., tasks that run on the order of milliseconds. Compared to coarse-grained tasks, fine-grained tasks are difficult to execute with acceptable system overheads. In this paper, we present a distributed futures system for fine-grained tasks that provides fault tolerance without sacrificing performance. Our solution is based on a novel concept called ownership, which assigns each object a leader for system operations. We show that this decentralized architecture can achieve horizontal scaling, 1ms latency per task, and fast failure handling."
 
 # Summary. An optional shortened abstract.
 summary: |
-  A join cardinality estimator that builds a single neural density estimator over an entire database.
+  A decentralized object metadata ownership system for fine-grained distributed tasks.
 
 tags:
-  - Query Optimization
-featured: true
+  - Distributed Futures
 
 links:
 #   - name: Blog

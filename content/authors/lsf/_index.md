@@ -50,9 +50,12 @@ experience:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: instagram
+    icon_pack: fab
+    link: https://instagram.com/frank_lsf
   - icon: envelope
     icon_pack: fas
-    link: mailto:lsf@berkeley.edu # For a direct email link, use "mailto:test@example.org".
+    link: mailto:lsf@berkeley.edu
   - icon: github
     icon_pack: fab
     link: https://github.com/franklsf95
