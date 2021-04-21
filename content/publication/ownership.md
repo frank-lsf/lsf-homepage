@@ -31,11 +31,7 @@ tags:
   - Distributed Futures
 
 links:
-#   - name: Blog
-#     url: https://ai.facebook.com/blog/aroma-ml-for-code-recommendation/
-#   - name: Talk
-#     url: https://www.youtube.com/watch?v=27jNHU8pwsU&list=PLyrlk8Xaylp6enzqOraP0sSd5HzVq3DZ5&index=46
-url_pdf: https://arxiv.org/pdf/2006.08109
+url_pdf: https://www.usenix.org/system/files/nsdi21-wang.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
