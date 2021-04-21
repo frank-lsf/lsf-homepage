@@ -66,6 +66,19 @@ slides:
 
 ---
 
+{{< slide id="paso-robles" background-image="../../media/paso.jpg" background-size="cover" >}}
+
+## <span>Paso Robles</span>
+
+- Fly to the Central California Wine Country.
+- Destination: [Paso Robles](https://www.travelpaso.com/).
+- What to See: California Highway 1, Big Sur, Central California Wine Country.
+- Things to Do: Wine tasting; [Sensorio Field of Lights](https://sensoriopaso.com/) in the summer.
+- 1-hour flight each-way, usually a day trip.
+- \* I have not done this trip before so I'm extra willing to go! <br> (Picture found on the Web)
+
+---
+
 {{< slide id="santa-barbara" background-image="../../media/santa-barbara.jpg" background-size="cover" >}}
 
 ## <span>Santa Barbara</span>
@@ -74,7 +87,6 @@ slides:
 - Destinations: [Santa Barbara](https://www.flysba.santabarbaraca.gov/); [Santa Ynez](https://santaynezairport.com/) ([Solvang](https://www.solvangusa.com/)).
 - Things to Do: Sunshine, beach, food, wine.
 - 2-hour flight each-way, day trip.
-- \* I have not done this trip before so I'm extra willing to go! <br> (Picture found on the Web)
 
 ---
 
@@ -85,8 +97,7 @@ slides:
 - Fly to Los Angeles area and visit this resort island 30 miles off-shore of California.
 - Destination: [Catalina Airport](https://www.visitcatalinaisland.com/about-the-island/points-of-interest/airport-in-the-sky/) ("Airport in the Sky").
 - Things to Do: It's basically Hawaii.
-- 3-hour flight each-way, probably better as a two-day trip. Plenty of resort hotels on the island.
-- \* I have not done this trip before so I'm extra willing to go! <br> (Picture found in macOS Catalina)
+- 2.5-hour flight each-way, probably better as a two-day trip. Plenty of resort hotels on the island.
 
 ---
 

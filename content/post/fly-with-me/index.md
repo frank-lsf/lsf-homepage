@@ -28,7 +28,9 @@ image:
 projects: []
 ---
 
-I am a private pilot with about 200 hours of flight time. Let me know if you want to ride in a small airplane to explore new destinations.
+I am a private pilot with about [200 hours of flight experience](https://www.arelplane.com/@franklsf) since 2018.
+I fly with my friends in small airplanes to explore new destinations in California.
+See my [Instagram story highlights](https://www.instagram.com/stories/highlights/17878159724249899/) for my flying adventures!
 
 ### [Where do you fly?](../../slides/flight-plans)
 
@@ -37,6 +39,7 @@ I am a private pilot with about 200 hours of flight time. Let me know if you wan
 - [Monterey & Big Sur](../../slides/flight-plans/#/monterey)
 - [Central California](../../slides/flight-plans/#/central-california)
 - [The Lost Coast of California](../../slides/flight-plans/#/shelter-cove)
+- [Paso Robles](../../slides/flight-plans/#/paso-robles)
 - [Santa Barbara](../../slides/flight-plans/#//santa-barbara)
 - [Catalina Island](../../slides/flight-plans/#/catalina)
 - [Yosemite Valley](../../slides/flight-plans/#/yosemite)
@@ -54,6 +57,8 @@ I am a private pilot with about 200 hours of flight time. Let me know if you wan
 
 - How much does it cost? <br> I do not charge passengers because this is not a commercial service. We share the rental cost. It is usually around $200 per flight hour.
 
-- Is it cold up there? <br> It's usually 5--10 degrees cooler than on the ground. There is heating inside the airplane (but no A/C).
+- How high do you fly & Is it cold up there? <br> We usually cruise at 5,000 to 10,000 feet (in comparison the airliners cruise at 30,000 feet). It's usually 5--10 degrees cooler than on the ground. There is heating inside the airplane (but no A/C).
+
+- How fast & far can you fly? <br> The aircrafts I fly typically cruise at around 140 knots (160 mph), which means 1 hour to Tahoe, 2 hours to LA, or 3 hours to San Diego or Las Vegas. Any trip longer than these probably needs a fuel stop.
 
 - Can I use my phone? <br> Yes--- because we fly low to the ground (compared to the airliners), cellular signal is usually excellent!
