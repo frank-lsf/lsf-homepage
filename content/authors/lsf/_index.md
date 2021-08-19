@@ -69,13 +69,9 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Researchers
-  - Visitors
+highlight_name: true
 ---
 
-I am a PhD student in computer science at the [RISELab](https://rise.cs.berkeley.edu/) at UC Berkeley. My current research interest is in machine learning and data systems.
+I am a PhD student in computer science at the [RISELab](https://rise.cs.berkeley.edu/) at UC Berkeley. My research interest is in machine learning and cloud computing.
 
 I started at Berkeley in 2019. Before that, I worked in the Big Code team at Facebook where I applied machine learning techniques to build assistants that help developers write code. I received my bachelor's degree in computer science and statistics from UChicago in 2017.

@@ -10,7 +10,7 @@ slides:
   theme: night
 ---
 
-{{< slide id="bay-tour" background-image="../../media/bay-tour.jpg" background-size="cover" >}}
+{{< slide id="bay-tour" background-image="../../media/flight-plans/bay-tour.jpg" background-size="cover" >}}
 
 ## <span>Bay Tour</span>
 
@@ -20,7 +20,7 @@ slides:
 
 ---
 
-{{< slide id="wine-country" background-image="../../media/wine-country.jpg" background-size="cover" >}}
+{{< slide id="wine-country" background-image="../../media/flight-plans/wine-country.jpg" background-size="cover" >}}
 
 ## <span>Wine Country Tour</span>
 
@@ -32,7 +32,7 @@ slides:
 
 ---
 
-{{< slide id="monterey" background-image="../../media/monterey.jpg" background-size="cover" >}}
+{{< slide id="monterey" background-image="../../media/flight-plans/monterey.jpg" background-size="cover" >}}
 
 ## <span>Monterey & Big Sur</span>
 
@@ -43,7 +43,7 @@ slides:
 
 ---
 
-{{< slide id="central-california" background-image="../../media/oceano.jpg" background-size="cover" >}}
+{{< slide id="central-california" background-image="../../media/flight-plans/oceano.jpg" background-size="cover" >}}
 
 ## <span>Central California</span>
 
@@ -55,7 +55,7 @@ slides:
 
 ---
 
-{{< slide id="shelter-cove" background-image="../../media/shelter-cove.jpg" background-size="cover" >}}
+{{< slide id="shelter-cove" background-image="../../media/flight-plans/shelter-cove.jpg" background-size="cover" >}}
 
 ## <span>The Lost Coast of California</span>
 
@@ -66,7 +66,7 @@ slides:
 
 ---
 
-{{< slide id="paso-robles" background-image="../../media/paso.jpg" background-size="cover" >}}
+{{< slide id="paso-robles" background-image="../../media/flight-plans/paso.jpg" background-size="cover" >}}
 
 ## <span>Paso Robles</span>
 
@@ -79,7 +79,7 @@ slides:
 
 ---
 
-{{< slide id="santa-barbara" background-image="../../media/santa-barbara.jpg" background-size="cover" >}}
+{{< slide id="santa-barbara" background-image="../../media/flight-plans/santa-barbara.jpg" background-size="cover" >}}
 
 ## <span>Santa Barbara</span>
 
@@ -90,7 +90,7 @@ slides:
 
 ---
 
-{{< slide id="catalina" background-image="../../media/catalina.jpg" background-size="cover" >}}
+{{< slide id="catalina" background-image="../../media/flight-plans/catalina.jpg" background-size="cover" >}}
 
 ## <span>Catalina Island</span>
 
@@ -101,7 +101,7 @@ slides:
 
 ---
 
-{{< slide id="yosemite" background-image="../../media/yosemite.jpg" background-size="cover" >}}
+{{< slide id="yosemite" background-image="../../media/flight-plans/yosemite.jpg" background-size="cover" >}}
 
 ## <span>Yosemite Valley</span>
 
@@ -112,7 +112,7 @@ slides:
 
 ---
 
-{{< slide id="tahoe" background-image="../../media/tahoe.jpg" background-size="cover" >}}
+{{< slide id="tahoe" background-image="../../media/flight-plans/tahoe.jpg" background-size="cover" >}}
 
 ## <span>Lake Tahoe</span>
 
@@ -123,7 +123,7 @@ slides:
 
 ---
 
-{{< slide id="mammoth" background-image="../../media/mammoth.jpg" background-size="cover" >}}
+{{< slide id="mammoth" background-image="../../media/flight-plans/mammoth.jpg" background-size="cover" >}}
 
 ## <span>Mammoth Lakes</span>
 
@@ -134,7 +134,7 @@ slides:
 
 ---
 
-{{< slide id="shasta" background-image="../../media/shasta.jpg" background-size="cover" >}}
+{{< slide id="shasta" background-image="../../media/flight-plans/shasta.jpg" background-size="cover" >}}
 
 ## <span>Mount Shasta & Trinity Lakes</span>
 

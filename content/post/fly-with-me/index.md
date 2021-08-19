@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-I am a private pilot with about [200 hours of flight experience](https://www.arelplane.com/@franklsf) since 2018.
+I am a private pilot with about [250 hours of flight experience](https://www.arelplane.com/@franklsf) since 2018.
 I fly with my friends in small airplanes to explore new destinations in California.
 See my [Instagram story highlights](https://www.instagram.com/stories/highlights/17878159724249899/) for my flying adventures!
 
@@ -37,7 +37,7 @@ See my [Instagram story highlights](https://www.instagram.com/stories/highlights
 - [Bay Tour](../../slides/flight-plans/#/bay-tour)
 - [Wine Country Tour](../../slides/flight-plans/#/wine-country)
 - [Monterey & Big Sur](../../slides/flight-plans/#/monterey)
-- [Central California](../../slides/flight-plans/#/central-california)
+- [San Luis Obispo](../../slides/flight-plans/#/central-california)
 - [The Lost Coast of California](../../slides/flight-plans/#/shelter-cove)
 - [Paso Robles](../../slides/flight-plans/#/paso-robles)
 - [Santa Barbara](../../slides/flight-plans/#//santa-barbara)
@@ -46,6 +46,10 @@ See my [Instagram story highlights](https://www.instagram.com/stories/highlights
 - [Lake Tahoe](../../slides/flight-plans/#/tahoe)
 - [Mammoth Lakes](../../slides/flight-plans/#/mammoth)
 - [Mount Shasta & Trinity Lakes](../../slides/flight-plans/#/shasta)
+- Kern Valley
+- Los Angeles
+- Las Vegas
+- Grand Canyon
 
 ### Frequently Asked Questions
 

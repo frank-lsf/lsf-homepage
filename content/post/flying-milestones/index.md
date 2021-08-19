@@ -45,3 +45,5 @@ projects: []
 - 11/7/2019: Mountain checkout in a Cessna 182. KTVL, KTRK, KBLU.
 - 8/2/2020: First Crossing of the Sierra Nevada. Cessna 182. Crossed Tioga Pass at 11500ft (1500ft AGL) to Lee Vining, California (O24).
 - 3/13/2021: First Cross-Country Ski Trip. Cessna 182. 156nm to Mammoth Lakes, California (KMMH). First runway excursion incident due to brake overheating.
+- 4/15/2021: First Ocean Crossing. Cessna 182. 22nm to Catalina Island, California (KAVX).
+- 6/12/2021: First Flight to Nevada. Cessna 182. 350nm to North Las Vegas, Nevada (KVGT).

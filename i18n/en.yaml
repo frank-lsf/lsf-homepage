@@ -12,6 +12,15 @@
 - id: back_to_top
   translation: Back to top
 
+- id: home
+  translation: Home
+
+- id: close
+  translation: Close
+
+- id: languages
+  translation: Languages
+
 # General
 
 - id: related
@@ -31,6 +40,20 @@
 
 - id: edit_page
   translation: Edit this page
+
+# Themes
+
+- id: theme_selector
+  translation: Display preferences
+
+- id: theme_light
+  translation: Light
+
+- id: theme_dark
+  translation: Dark
+
+- id: theme_auto
+  translation: Automatic
 
 # Buttons
 
@@ -103,7 +126,7 @@
   translation: See all posts
 
 - id: more_talks
-  translation: See all talks
+  translation: See all events
 
 - id: more_publications
   translation: See all publications
@@ -119,13 +142,16 @@
 - id: contact_message
   translation: Message
 
+- id: contact_attachment
+  translation: Attach file
+
 - id: contact_send
   translation: Send
 
 - id: book_appointment
   translation: Book an appointment
 
-# Publication/Talk details
+# Publication/Event details
 
 - id: abstract
   translation: Abstract
@@ -180,7 +206,7 @@
 - id: open_project_site
   translation: Go to Project Site
 
-# Default titles for archive pages
+# Content types for default archive page titles and search results
 
 - id: posts
   translation: Posts
@@ -189,10 +215,16 @@
   translation: Publications
 
 - id: talks
-  translation: Talks
+  translation: Events
 
 - id: projects
   translation: Projects
+
+- id: slides
+  translation: Slides
+
+- id: authors
+  translation: Authors
 
 # Search
 
@@ -207,6 +239,9 @@
 
 - id: search_no_results
   translation: No results found
+
+- id: search_common_queries
+  translation: Common searches
 
 # Error 404
 
@@ -226,3 +261,8 @@
 
 - id: cookie_learn
   translation: Learn more
+
+# Published with
+
+- id: published_with
+  translation: Published with {wowchemy} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.
