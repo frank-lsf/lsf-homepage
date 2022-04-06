@@ -20,7 +20,7 @@ organizations:
     url: "https://eecs.berkeley.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD at UC Berkeley focused on machine learning and data systems.
+bio: PhD at UC Berkeley focused on big data systems and cloud computing.
 
 # interests:
 # - Machine learning systems
@@ -72,6 +72,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD student in computer science at the [RISELab](https://rise.cs.berkeley.edu/) at UC Berkeley. My research interest is in machine learning and cloud computing.
+I am a PhD student in computer science at the [RISELab](https://rise.cs.berkeley.edu/) at UC Berkeley advised by [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/). My research interest is in big data systems and cloud computing.
 
-I started at Berkeley in 2019. Before that, I worked in the Big Code team at Facebook where I applied machine learning techniques to build assistants that help developers write code. I received my bachelor's degree in computer science and statistics from UChicago in 2017.
+I started at Berkeley in 2019. Before that, I worked in the Big Code team at Facebook where I applied machine learning techniques to build assistants that help developers write code. I received my bachelor's degrees in computer science and statistics from UChicago in 2017.
