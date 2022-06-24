@@ -73,9 +73,8 @@ slides:
 - Fly to the Central California Wine Country.
 - Destination: [Paso Robles](https://www.travelpaso.com/).
 - What to See: California Highway 1, Big Sur, Central California Wine Country.
-- Things to Do: Wine tasting; [Sensorio Field of Lights](https://sensoriopaso.com/) in the summer.
+- Things to Do: Wine tasting; [Sensorio Field of Lights](https://sensoriopaso.com/).
 - 1-hour flight each-way, usually a day trip.
-- \* I have not done this trip before so I'm extra willing to go! <br> (Picture found on the Web)
 
 ---
 
@@ -94,10 +93,10 @@ slides:
 
 ## <span>Catalina Island</span>
 
-- Fly to Los Angeles area and visit this resort island 30 miles off-shore of California.
+- Fly to Los Angeles and visit this island 26 miles offshore of California.
 - Destination: [Catalina Airport](https://www.visitcatalinaisland.com/about-the-island/points-of-interest/airport-in-the-sky/) ("Airport in the Sky").
-- Things to Do: It's basically Hawaii.
-- 2.5-hour flight each-way, probably better as a two-day trip. Plenty of resort hotels on the island.
+- Things to Do: Avalon is a mini-Hawaii; Two Harbors is a campground.
+- 2.5-hour flight each-way, probably better as a two-day trip.
 
 ---
 

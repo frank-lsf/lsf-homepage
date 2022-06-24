@@ -29,8 +29,8 @@ projects: []
 ---
 
 I am a private pilot with about [300 hours of flight experience](https://www.arelplane.com/@franklsf) since 2018.
-I fly with my friends in small airplanes to fun destinations across California and beyond.
-See my [Instagram story highlights](https://www.instagram.com/stories/highlights/17878159724249899/) for my flying adventures!
+I fly with my friends in small airplanes to explore fun destinations across California and beyond.
+My [Instagram stories](https://www.instagram.com/stories/highlights/17878159724249899/) documents some of these adventures.
 
 ### [Where do you fly?](../../slides/flight-plans)
 
@@ -66,4 +66,4 @@ See my [Instagram story highlights](https://www.instagram.com/stories/highlights
 
 - How fast & far can you fly? <br> Typical cruise speed is about 140 knots (160 mph), which means 1 hour to Tahoe, 2 hours to LA, or 3 hours to San Diego or Las Vegas. Any trip longer than these probably needs a fuel stop.
 
-- Can I use my phone? <br> Yes---because we fly low to the ground, cellular signal is usually excellent!
+- Can I use my phone? <br> Yes---because we fly low to the ground, cellular signal is usually excellent.
