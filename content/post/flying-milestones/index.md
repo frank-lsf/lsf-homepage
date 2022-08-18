@@ -46,4 +46,8 @@ projects: []
 - 8/2/2020: First Crossing of the Sierra Nevada. Cessna 182. Crossed Tioga Pass at 11500ft (1500ft AGL) to Lee Vining, California (O24).
 - 3/13/2021: First Cross-Country Ski Trip. Cessna 182. 156nm to Mammoth Lakes, California (KMMH). First runway excursion incident due to brake overheating.
 - 4/15/2021: First Ocean Crossing. Cessna 182. 22nm to Catalina Island, California (KAVX).
-- 6/12/2021: First Flight to Nevada. Cessna 182. 350nm to North Las Vegas, Nevada (KVGT).
+- 6/12/2021: First State-Crossing Flight. Cessna 182. 350nm to North Las Vegas, Nevada (KVGT).
+- 10/9/2021: First Fly-in Camping Trip. Cessna 182. Catalina Island, California.
+- 3/25/2022: Checkout in Hawaii. Diamond Star DA-40. Honolulu, Hawaii.
+- 7/14/2022: Closing of N727SL. Co-purchased my first airplane, a G2 Cirrus SR-22.
+- 8/16/2022: Instrument Check Ride. Cirrus SR-22. Lincoln, California. Became instrument-rated.
