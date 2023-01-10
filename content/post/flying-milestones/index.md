@@ -50,5 +50,6 @@ projects: []
 - 10/9/2021: First Fly-in Camping Trip. Cessna 182. Catalina Island, California.
 - 3/25/2022: Checkout in Hawaii. Diamond Star DA-40. Honolulu, Hawaii.
 - 7/14/2022: Closing of N727SL. Co-purchased my first airplane, a G2 Cirrus SR-22.
-- 8/16/2022: Instrument Check Ride. Cirrus SR-22. Lincoln, California. Became instrument-rated.
+- 8/16/2022: Instrument Check Ride. Cirrus SR-22. Lincoln, California (KLHM). Became instrument-rated.
 - 9/18/2022: First Instrument Approach in IMC. O69 RNAV (GPS) RWY 29, circle-to-land RWY 11. 1--2 miles visibility in rain. Petaluma, California.
+- 12/25/2022: First Flight to Arizona. Cirrus SR-22. Grand Canyon Bar Ten Airstrip, Arizona (1Z1). Approached into the Grand Canyon and landed on a narrow, crooked and bumpy runway.
