@@ -25,7 +25,7 @@ abstract: Programmers often write code that has similarity to existing code writ
 summary: |
   A code recommendation tool for big code corpora to improve developer productivity.
 
-  🏆*2019 ACM SIGPLAN Distinguished Paper Award*
+  🏆 *2019 ACM SIGPLAN Distinguished Paper Award*
 
 tags:
   - Big Code
