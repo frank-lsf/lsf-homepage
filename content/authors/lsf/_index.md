@@ -72,6 +72,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD student in computer science at the [RISELab](https://rise.cs.berkeley.edu/) at UC Berkeley advised by [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/). My research interest is in AI systems and cloud computing.
+I am a PhD student in computer science at the [Sky Computing Lab](https://sky.cs.berkeley.edu/) (previously [RISELab](https://rise.cs.berkeley.edu/)) at UC Berkeley, advised by [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/). My research interest is in AI systems and cloud computing.
 
-I started at Berkeley in 2019. Before that, I worked in the Big Code team at Facebook where I applied machine learning techniques to build assistants that help developers write code. I received my bachelor's degrees in computer science and statistics from UChicago in 2017.
+I started at Berkeley in 2020. Before that, I worked in the Big Code team at Facebook where I applied machine learning techniques to build assistants that help developers write code. I received my bachelor's degrees in computer science and statistics from UChicago in 2017.

@@ -37,7 +37,7 @@ featured: true
 
 links:
 url_pdf: https://arxiv.org/pdf/2006.08109
-# url_code: '#'
+url_code: https://github.com/neurocard/neurocard
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
