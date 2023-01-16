@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+I am an instrument-rated private pilot with [over 400 hours of flight experience](https://www.arelplane.com/@franklsf).
+
 - 11/2/2014: First Introductory Flight. Chicago, Illinois. Cessna 172N. My first time sitting in the pilot seat in a Cessna 172.
 - 3/19/2018: First Flying Lesson. Cessna 152. Palo Alto, California.
 - 6/23/2018: First Solo. Cessna 152. Three traffic patterns.
