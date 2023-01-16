@@ -28,7 +28,7 @@ abstract: "We present Exoshuffle-CloudSort, a sorting application running on top
 
 # Summary. An optional shortened abstract.
 summary: |
-  Winner of the 2022 CloudSort Benchmark (Indy category) for sorting at $0.97/TB.
+  Winner of the 2022 CloudSort Benchmark (Indy category) for sorting 100TB data at $0.97/TB.
 
 tags:
   - Distributed Futures
