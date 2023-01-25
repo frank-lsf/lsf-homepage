@@ -79,4 +79,4 @@ I am a PhD student in computer science at the [Sky Computing Lab](https://sky.cs
 
 I started at Berkeley in 2020. Before that, I worked in [the Big Code team at Facebook](https://www.linkedin.com/posts/erikmeijer1_meta-layoffs-hit-an-entire-ml-research-team-activity-6996955327560650752-QFjV) from 2017 to 2019, where I built ML coding assistants. I received my bachelor's degrees in computer science and statistics from UChicago in 2017.
 
-I am an instrument-rated private pilot with [over 400 hours of flight experience](/post/flying-milestones).
+I am an instrument-rated private pilot with [over 400 hours of flight experience](post/flying-milestones).
