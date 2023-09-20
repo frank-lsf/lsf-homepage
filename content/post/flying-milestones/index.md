@@ -55,3 +55,7 @@ I am an instrument-rated private pilot with [over 400 hours of flight experience
 - 8/16/2022: Instrument Check Ride. Cirrus SR-22. Lincoln, California (KLHM). Became instrument-rated.
 - 9/18/2022: First Instrument Approach in IMC. O69 RNAV (GPS) RWY 29, circle-to-land RWY 11. 1--2 miles visibility in rain. Petaluma, California.
 - 12/25/2022: First Flight to Arizona. Cirrus SR-22. Grand Canyon Bar Ten Airstrip, Arizona (1Z1). Approached into the Grand Canyon and landed on a narrow, crooked and bumpy runway.
+- 7/24/2023: First Time in Oshkosh!!! Arrived by car.
+- 7/27/2023: First Flight through Canadian Airspace. Cirrus SR-22. Chicago Executive, Illinois (KPWK) to Buffalo, NY (KBUF). Night flight over Lake Michigan and Lake Erie.
+- 7/31/2023: First In-flight Emergency. Cirrus SR-22. Cylinder 1 Exhaust Header broke off in cruise flight. Diverted to Allentown, PA (KABE) and was stranded for two days. [Retrospective](https://github.com/lizan/fly0731/issues/176).
+- 8/5/2023: First Coast-to-coast Flight. Cirrus SR-22. From Montauk, NY (KMTP) to San Carlos, CA (KSQL). 18.1 flying hours in 6 days.
