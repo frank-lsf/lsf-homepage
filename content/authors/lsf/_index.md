@@ -75,8 +75,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD student in computer science at the [Sky Computing Lab](https://sky.cs.berkeley.edu/) (previously [RISELab](https://rise.cs.berkeley.edu/)) at UC Berkeley, advised by [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/). My research interest is in AI systems and cloud computing.
+I am a PhD student in computer science at the [Sky Computing Lab](https://sky.cs.berkeley.edu/) (previously [RISELab](https://rise.cs.berkeley.edu/)) at UC Berkeley, advised by [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/). My research interest is in data, AI systems and cloud computing.
 
-I started at Berkeley in 2020. Before that, I worked in [the Big Code team at Facebook](https://www.linkedin.com/posts/erikmeijer1_meta-layoffs-hit-an-entire-ml-research-team-activity-6996955327560650752-QFjV) from 2017 to 2019, where I built ML coding assistants. I received my bachelor's degrees in computer science and statistics from UChicago in 2017.
+I started at Berkeley in 2020. Before that, I worked in [the Big Code team at Facebook](https://www.linkedin.com/posts/erikmeijer1_meta-layoffs-hit-an-entire-ml-research-team-activity-6996955327560650752-QFjV) from 2017 to 2019, where I created ML-powered developer productivity tools. I received my bachelor's degrees in computer science and statistics from the University of Chicago in 2017.
 
 I am an instrument-rated private pilot with [over 400 hours of flight experience](post/flying-milestones).

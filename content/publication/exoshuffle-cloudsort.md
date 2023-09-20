@@ -35,11 +35,13 @@ tags:
   - Shuffle
 
 links:
+  - name: Blog
+    url: https://www.anyscale.com/blog/ray-breaks-the-usd1-tb-barrier-as-the-worlds-most-cost-efficient-sorting
 url_pdf: https://arxiv.org/pdf/2301.03734.pdf
 url_code: https://github.com/exoshuffle/cloudsort
 # url_dataset: '#'
 # url_poster: '#'
-# url_project: ''
+url_project: https://github.com/exoshuffle/cloudsort
 # url_slides: ''
 # url_source: '#'
 # url_video: '#'

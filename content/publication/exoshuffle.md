@@ -1,5 +1,5 @@
 ---
-title: "Exoshuffle: Large-Scale Shuffle at the Application Level"
+title: "Exoshuffle: An Extensible Shuffle Architecture"
 authors:
   - lsf
   - Samyukta Yagati
@@ -7,11 +7,12 @@ authors:
   - Sean Kim
   - Kenneth Lien
   - Isaac Ong
+  - Tony Hong
   - SangBin Cho
   - Eric Liang
   - Ion Stoica
-date: "2022-05-13"
-# doi:
+date: "2023-09-10"
+doi: 10.1145/3603269.3604848
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,21 +21,25 @@ date: "2022-05-13"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: arXiv
-publication_short: arXiv
+publication: Proceedings of the ACM SIGCOMM 2023 Conference
+publication_short: SIGCOMM 2023
 
-abstract: "Shuffle is a key primitive in large-scale data processing applications. The difficulty of large-scale shuffle has inspired the development of many specialized shuffle systems. While these systems greatly improve shuffle performance and reliability, they come at a cost: flexibility. First, each shuffle system is essentially built from scratch, which is a significant developer effort. Second, the monolithic design of these shuffle systems makes them too rigid to support fine-grained pipelining, as desired by applications like distributed ML training. We argue that the inflexibility stems from the tight coupling of shuffle algorithms and system-level optimizations, and propose to use the distributed futures abstraction to decouple shuffle algorithms from the system. We present Exoshuffle, an application-level shuffle design built on top of Ray, a task-based distributed futures system. We show that it is possible to (1) express shuffle algorithms from previous shuffle systems in a few hundred lines of application-level Python code, (2) achieve competitive performance and scalability with specialized data systems like Spark, and (3) achieve interoperability with other data applications via fine-grained pipelining."
+abstract: "Shuffle is one of the most expensive communication primitives in distributed data processing and is difficult to scale. Prior work addresses the scalability challenges of shuffle by building monolithic shuffle systems. These systems are costly to develop, and they are tightly integrated with batch processing frameworks that offer only high-level APIs such as SQL. New applications, such as ML training, require more flexibility and finer-grained interoperability with shuffle. They are often unable to leverage existing shuffle optimizations.
+
+We propose an extensible shuffle architecture. We present Exoshuffle, a library for distributed shuffle that offers competitive performance and scalability as well as greater flexibility than monolithic shuffle systems. We design an architecture that decouples the shuffle control plane from the data plane without sacrificing performance. We build Exoshuffle on Ray, a distributed futures system for data and ML applications, and demonstrate that we can: (1) rewrite previous shuffle optimizations as application-level libraries with an order of magnitude less code, (2) achieve shuffle performance and scalability competitive with monolithic shuffle systems, and break the CloudSort record as the world's most cost-efficient sorting system, and (3) enable new applications such as ML training to easily leverage scalable shuffle."
 
 # Summary. An optional shortened abstract.
 summary: |
-  Shuffle at the application level can reach state-of-the-art performance and scalability, and provide unprecedented flexibility.
+  An extensible shuffle architecture that offers competitive performance and scalability as well as greater flexibility than monolithic shuffle systems.
 
 tags:
   - Distributed Futures
   - Shuffle
 
 links:
-url_pdf: https://arxiv.org/pdf/2203.05072.pdf
+  - name: Talk
+    url: https://www.youtube.com/watch?v=8RXNurRXyds
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3603269.3604848
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
