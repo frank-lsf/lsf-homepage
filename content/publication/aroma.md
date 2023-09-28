@@ -7,7 +7,7 @@ authors:
   - Koushik Sen
   - Satish Chandra
 date: "2019-10-01"
-doi: 10.1145/3211346.3211353
+doi: 10.1145/3360578
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -36,7 +36,7 @@ links:
     url: https://ai.facebook.com/blog/aroma-ml-for-code-recommendation/
   - name: Talk
     url: https://www.youtube.com/watch?v=27jNHU8pwsU&list=PLyrlk8Xaylp6enzqOraP0sSd5HzVq3DZ5&index=46
-url_pdf: /files/aroma-oopsla-2019.pdf
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3360578
 url_code: https://github.com/facebookresearch/aroma-paper-artifacts
 # url_dataset: '#'
 # url_poster: '#'

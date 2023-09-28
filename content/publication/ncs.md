@@ -34,7 +34,7 @@ links:
     url: https://ai.facebook.com/blog/neural-code-search-ml-based-code-search-using-natural-language-queries/
   - name: Dataset
     url: https://research.fb.com/publications/neural-code-search-evaluation-dataset/
-url_pdf: /files/ncs-mapl-2018.pdf
+url_pdf: https://people.eecs.berkeley.edu/~lsf/files/ncs-mapl-2018.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
