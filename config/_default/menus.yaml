@@ -17,5 +17,5 @@ main:
     url: "/post"
     weight: 40
   - name: CV
-    url: "files/Frank Sifei Luan Resume.pdf"
+    url: "files/Sifei Luan PhD Resume.pdf"
     weight: 50
