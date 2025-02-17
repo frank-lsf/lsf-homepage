@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-hugo && rsync -avz public/ watson:public_html --delete
+hugo build && rsync -avz public/ franklsf@jimmyxu.org:~/www/franklsf.org/

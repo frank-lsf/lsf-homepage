@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Frank Sifei Luan
-baseurl: /~lsf/
+baseurl: /
 copyright: "&copy; {year}"
 
 ############################
@@ -23,9 +23,9 @@ removePathAccents: true
 module:
   imports:
     - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
-      mounts:
-        - source: layouts/partials/blocks/about.biography.html
-          target: layouts/partials/blocks/about.biography.html
+      # mounts:
+      #   - source: layouts/partials/blocks/about.biography.html
+      #     target: layouts/partials/blocks/about.biography.html
 ############################
 ## ADVANCED
 ############################

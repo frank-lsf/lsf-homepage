@@ -16,11 +16,11 @@ role: 栾思飞
 
 # Organizations/Affiliations
 organizations:
-  - name: Anthropic
-    url: "https://www.anthropic.com/"
+  - name: UC Berkeley
+    url: "https://sky.cs.berkeley.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Member of Technical Staff at Anthropic
+bio: PhD at UC Berkeley
 
 # interests:
 # - Machine learning systems
@@ -68,15 +68,13 @@ social:
     link: https://scholar.google.com/citations?user=rb6gXycAAAAJ
   - icon: cv
     icon_pack: ai
-    link: files/Sifei Luan PhD Resume.pdf
+    link: files/Sifei_Luan_PhD_Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 highlight_name: true
 ---
-
-I currently work at [Anthropic](https://www.anthropic.com/).
 
 I obtained my Ph.D. in computer science from the University of California, Berkeley in 2024. I was advised by Professor [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/). My dissertation is on [_An Extensible Architecture for Distributed Heterogeneous Processing_](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2024/EECS-2024-219.html).
 Before that, I worked at Facebook from 2017 to 2019.
